@@ -1,4 +1,3 @@
-
 ---
 title: "Infrarot-Entfernungsschalter"
 date: "2018-10-12T14:53:06.000Z"
