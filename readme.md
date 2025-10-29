@@ -16,9 +16,6 @@ repo_part: "Grove_IR_Distance_Interrupter_v1.2"
 product_url: "http://wiki.seeedstudio.com/Grove-IR_Distance_Interrupter_v1.2/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_IR_Distance_Interrupter_v1.2.git"
 embedded_example_file: "examples/Grove_IR_Distance_Interrupter_v1.2_minimal/Grove_IR_Distance_Interrupter_v1.2_minimal.ino"
-title: 'Infrarot-Entfernungsschalter'
-status: 'active'
-difficulty: 'advanced'
 ---
 
 
